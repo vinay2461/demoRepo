@@ -15,6 +15,7 @@ public class globantTest {
 				for(int j=str.length()-1;j>=0;j--) {
 					
 					System.out.println(str.charAt(j));
+					System.out.println(str.charAt(j));
 				}
 			}
 		}
